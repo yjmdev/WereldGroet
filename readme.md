@@ -6,3 +6,4 @@ Wij willen graag wereldbegrip en topografische vaardigheden bij jongeren te stim
 
 ## Waarom bestaat het?
 Docenten gebruiken regelmatig onoverzichtelijke methodes.
+Dat zuigt voor de gemiddelde student. Haha.
