@@ -1,0 +1,16 @@
+@startuml gebruiker
+class Gebied {
+    + positie : double[]
+    + naam : string
+    + symboolKleur : int[]
+    + symboolFoto : FileStream
+    + geluid : FileStream
+    + voorpaginaFoto : FileStream
+    + beschrijving : string
+    + gebiedData : Level list
+}
+
+class Level {
+    
+}
+@enduml
